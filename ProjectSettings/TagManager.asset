@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - wall
+  - player
+  - bullet
+  - door
+  - enemy
+  - flag
+  - trap
+  - jumpboost
+  - box
+  - bulletenemy
+  - star
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - Ground&Ceiling
+  - Wall
+  - Flag&items
+  - BulletPlayer
+  - 
+  - Enemy&Trap
+  - BulletEnemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2637836943
+    locked: 0
+  - name: wall
+    uniqueID: 2852734093
+    locked: 0
+  - name: trap&items
+    uniqueID: 106452867
+    locked: 0
+  - name: ground
+    uniqueID: 2480348797
+    locked: 0
+  - name: Flag
+    uniqueID: 589028531
+    locked: 0
+  - name: bullet
+    uniqueID: 4166556401
+    locked: 0
+  - name: enemy
+    uniqueID: 2294479867
+    locked: 0
+  - name: player
+    uniqueID: 1606036417
+    locked: 0
+  - name: ceiling
+    uniqueID: 765287523
+    locked: 0
